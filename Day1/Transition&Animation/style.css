@@ -14,7 +14,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-color: #3498db;
+  background-color: #d80707;
   border-radius: 50%;
   transition: all 0.5s ease-in-out;
 }
@@ -35,7 +35,7 @@ body {
 }
 
 #largeCircle:hover {
-  background-color: #e74c3c;
+  background-color: #458229;
 }
 
 #container:hover #firstcircle {
